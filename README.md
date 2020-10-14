@@ -1,13 +1,13 @@
 # School_District_Analysis
 Module 4: Anaconda, Jupyter, Panda
 
-##Overview 
+## Overview 
 
 The Chief Data Scientist for the city school district named Maria had asked help to analyze data on student funding and student standardized test scores. The initial tasks is to aggregate the data and showcase trends in school performance. This analysis will help the school board and superintendent in making decisions regarding the school budgets and prioreties.  
 
 The second part of the project was to repeat the same school district analysis but removing some information from a specific school and grade because the data cannot be trusted. The result will then be described in this report showing how the changes affected the overall analysis.
 
-##Results: 
+## Results: 
 
 The outcome of the analysis presented below is a result of data comaparison between the initial and the corrected report analysis.
 
@@ -59,7 +59,7 @@ The outcome of the analysis presented below is a result of data comaparison betw
 
 	*If you review the results of the corrected report 	before the data are rounded to the nearest tenths, 	you can see that the changes on the scores of the 	charter schools is negligible and therefore, when 	you compare the results of the rounded data for both 	initial and 	the corrected reports, final scores 	are basically the same.*
 
-##Summary: 
+## Summary: 
 
 The overall impact of the change made on the corrected data analysis report in terms of reading and math grades, spending, scores by school size and school type is negligible. Removing the ninth grader's reading and math grades from the Thomas High School did not significantly impact the outcome of the previous analysis. However, the decision to re-evaluate the scores is important as we want the data to be thrustworthy. 
 
