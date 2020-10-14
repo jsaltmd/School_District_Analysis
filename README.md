@@ -91,7 +91,7 @@ The outcome of the analysis presented below is a result of data comaparison betw
 	![](./Pictures/Summary_report.png)
 	
 	
-##Summary: 
+## Summary: 
 
 The overall impact of the change made on the corrected data analysis report in terms of reading and math grades, spending, scores by school size and school type is negligible. Removing the ninth grader's reading and math grades from the Thomas High School did not significantly impact the outcome of the previous analysis. However, the decision to re-evaluate the scores is important as we want the data to be thrustworthy. 
 
