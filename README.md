@@ -3,7 +3,7 @@ Module 4: Anaconda, Jupyter, Panda
 
 ## Overview 
 
-The Chief Data Scientist for the city school district named Maria had asked for help to analyze data on student funding and student standardized test scores. The initial tasks is to aggregate the data and showcase trends in school performance. This analysis will help the school board and superintendent in making decisions regarding the school budgets and prioreties.  
+The Chief Data Scientist for the city school district named Maria had asked for help to analyze data on student funding and student standardized test scores. The initial tasks is to aggregate the data and showcase trends in school performance. This analysis will help the school board and superintendent in making decisions regarding the school budgets and priorities.  
 
 The second part of the project was to repeat the same school district analysis but removing some information from a specific school and grade because the data cannot be trusted. The result will then be described in this report showing how the changes affected the overall analysis.
 
@@ -51,7 +51,8 @@ The outcome of the analysis presented below is a result of data comaparison betw
 
 - Scores by school spending
 
-	*The corrected report data shows slight increase in 	spending compared to the initial data as shown 	below:*
+	*The corrected report data shows slight increases in 	spending in the first three spending ranges (per student) 
+	compared to the initial data as shown below:*
 	
 	Initial report:
 	
@@ -93,6 +94,6 @@ The outcome of the analysis presented below is a result of data comaparison betw
 	
 ## Summary: 
 
-The overall impact of the change made on the corrected data analysis report in terms of reading and math grades, spending, scores by school size and school type is negligible. Removing the ninth grader's reading and math grades from the Thomas High School did not significantly impact the outcome of the previous analysis. However, the decision to re-evaluate the scores is important as we want the data to be thrustworthy. 
+The overall impact of the change made on the corrected data analysis report in terms of reading and math grades, spending, scores by school size and school type is negligible. Removing the ninth grader's reading and math grades from the Thomas High School data did not significantly impact the outcome of the previous analysis. However, the decision to re-evaluate the scores is important as we want the data to be thrustworthy. 
 
 
